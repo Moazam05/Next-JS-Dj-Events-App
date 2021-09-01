@@ -1,0 +1,18 @@
+.header-wrap {
+  width: 100%;
+  float: left;
+}
+
+.title-h {
+  font-size: 28px;
+  color: #dc3545;
+  text-transform: uppercase;
+}
+
+li.nav-item.f {
+  margin: 0px 55px;
+}
+
+li.nav-item.s {
+  margin: 0px 55px 0px 0px;
+}
